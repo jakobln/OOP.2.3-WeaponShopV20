@@ -1,0 +1,11 @@
+C:\Code\OOP.2.3 - WeaponShopV20\bin\Debug\netcoreapp3.1\WeaponShopV20.exe
+C:\Code\OOP.2.3 - WeaponShopV20\bin\Debug\netcoreapp3.1\WeaponShopV20.deps.json
+C:\Code\OOP.2.3 - WeaponShopV20\bin\Debug\netcoreapp3.1\WeaponShopV20.runtimeconfig.json
+C:\Code\OOP.2.3 - WeaponShopV20\bin\Debug\netcoreapp3.1\WeaponShopV20.runtimeconfig.dev.json
+C:\Code\OOP.2.3 - WeaponShopV20\bin\Debug\netcoreapp3.1\WeaponShopV20.dll
+C:\Code\OOP.2.3 - WeaponShopV20\bin\Debug\netcoreapp3.1\WeaponShopV20.pdb
+C:\Code\OOP.2.3 - WeaponShopV20\obj\Debug\netcoreapp3.1\WeaponShopV20.csprojAssemblyReference.cache
+C:\Code\OOP.2.3 - WeaponShopV20\obj\Debug\netcoreapp3.1\WeaponShopV20.AssemblyInfoInputs.cache
+C:\Code\OOP.2.3 - WeaponShopV20\obj\Debug\netcoreapp3.1\WeaponShopV20.AssemblyInfo.cs
+C:\Code\OOP.2.3 - WeaponShopV20\obj\Debug\netcoreapp3.1\WeaponShopV20.dll
+C:\Code\OOP.2.3 - WeaponShopV20\obj\Debug\netcoreapp3.1\WeaponShopV20.pdb
